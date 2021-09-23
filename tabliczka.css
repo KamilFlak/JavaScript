@@ -1,0 +1,86 @@
+body{
+    background-color: bisque;
+}
+
+.box{
+    padding: 20px;
+    text-align: center;
+    width: 400px;
+    height: 300px;
+    border: black;
+    border: 1px solid black;
+    border-radius: 2px;
+    border-color: black;
+    
+}
+.message{
+    margin-bottom: 30px;
+}
+
+.action{
+    
+    color: rgb(236, 236, 236);
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 7px 7px;
+    border-radius: 2px;
+    border-color: black;
+    text-align: center;
+    background-color: rgb(223, 99, 99);
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.table{
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: black;
+    border: 1px solid black;
+    border-radius: 2px;
+    border-color: black;
+    background-color: cornsilk;
+    margin-bottom: 50px;
+}
+.article{
+    display: flex;
+    justify-content: center;
+    margin: 23px 0px;
+}
+.simple_function{
+    display: flex;
+    justify-content: center;
+    margin: 23px 0px;
+    
+}
+
+
+.frame{
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: black;
+    border: 1px solid black;
+    border-radius: 2px;
+    border-color: black;
+    background-color: cornsilk;
+    margin-bottom: 50px;
+
+}
+.hotelCheck{
+    border: black;
+    border: 1px solid black;
+    border-radius: 2px;
+    border-color: black;
+}
+.hotelCheckName{
+    border: black;
+    border: 1px solid black;
+    border-radius: 2px;
+    border-color: black;
+}
